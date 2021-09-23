@@ -35,3 +35,16 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
 }
+.table {
+    border: 2px solid black;
+    border-style: dotted;
+    border-color: blueviolet;
+    text-align: center;
+    margin: 6px;
+    padding-left: 6px;
+    width: 25%;
+    border-collapse: collapse;
+
+  }
+  
+  
