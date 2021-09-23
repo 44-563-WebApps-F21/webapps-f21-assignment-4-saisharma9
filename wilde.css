@@ -1,0 +1,37 @@
+.speech
+{color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+.stage-direction
+{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aqua;
+    font-size: 15px;
+}
+.stage-direction:hover
+{
+    color: aliceblue;
+    background-color: ivory;
+}
+.name
+{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+.ASCANIO
+{
+    color:blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px ;
+    
+}
+.GUIDO
+{
+    color:hotpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
