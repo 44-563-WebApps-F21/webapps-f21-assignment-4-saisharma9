@@ -14,19 +14,22 @@
 .stage-direction:hover
 {
     color: aliceblue;
-    background-color: ivory;
+    background-color: lime;
 }
 .name
 {
     color: black;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15px;
+   
 }
 .ASCANIO
 {
     color:blueviolet;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 20px ;
+   
+    
     
 }
 .GUIDO
@@ -34,6 +37,7 @@
     color:hotpink;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 18px;
+    
 }
 .table {
     border: 2px solid black;
@@ -45,6 +49,20 @@
     width: 25%;
     border-collapse: collapse;
 
+  }
+  .ASCANIO:hover
+  {
+     color: aquamarine;
+     background-color:lightsalmon ;
+   filter: blur(1px);
+   text-shadow: 3px 3px lightcoral;
+  }
+  .GUIDO:hover
+  {
+     color: yellowgreen;
+     background-color:lightskyblue ;
+     filter: blur(1px);
+     text-shadow: 3px 3px rebeccapurple;
   }
   
   
